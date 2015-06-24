@@ -1,0 +1,9 @@
+sbt/sbt-launch-*.jar
+target/
+.history
+.idea/
+.idea_modules
+*~
+.emacs.desktop*
+*.swp
+out/
